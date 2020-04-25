@@ -13,5 +13,10 @@ $(document).ready(function(){
             $button.attr('disabled','disabled');
             $button.after('<span><br>Message sent. We will contact you soon.</span>');
         }
-    })
+    });
+    
+    $('#sign-btn').on('click',function(e) {
+        $(e.currentTarget).closest('ul').hide();
+        $('form#signin').fadeIn('fast');
+    });
 });
