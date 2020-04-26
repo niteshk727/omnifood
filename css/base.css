@@ -1,3 +1,21 @@
+section#busy-header{
+    background-image: url(../img/siteunderconstruction.gif);
+    background-size: cover;
+}
+section#busy-header .wrap-headline{
+   position: relative;
+    padding-top: 20%;
+    padding-bottom: 40%;
+}
+section#busy-header h1,h2{
+  font-family: cursive;
+    color: rgb(90, 100, 177);
+}
+section#busy-header h2:hover{
+    font-size: 200px;
+    color: red;
+}
+
 header {
     background-color: #f8f8f8;
 }
@@ -20,7 +38,7 @@ section#intro-header{
 section#intro-header .wrap-headline{
    position: relative;
     padding-top: 20%;
-    padding-bottom: 20%
+    padding-bottom: 20%;
 }
 section#intro-header h1,
 section#intro-header h2{
