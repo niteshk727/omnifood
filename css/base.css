@@ -43,9 +43,11 @@ section#intro-header .wrap-headline{
 section#intro-header h1,
 section#intro-header h2{
    color: #000;
+    font-family: bold;
 }
 section#intro-header h2{
-   font-size: 1.5rem;
+   font-size: 2rem;
+    background-color: aqua
 }
 section#intro-header hr{
    width: 10%;
@@ -162,9 +164,20 @@ section#features .feature-tag{
     margin-left: 1.5em;
     font-size: 1.7rem;
 }
+/*
 #nav-menu {
     margin-right: 1rem;
 }
-
+header .btn-group{
+    margin: 0.8rem 2rem 0 0;
+}
+@media(max-width:48em){
+    header .btn-group {
+        position: absolute;
+        top: 0;
+        right: 4em;
+    }
+}
+*/
 
 
