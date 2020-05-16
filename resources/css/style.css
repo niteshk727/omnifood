@@ -216,7 +216,6 @@ header {
 .main-nav li {
     display: inline-block;
     margin-left: 40px;
-    margin-top: 40px;
 }
 
 .main-nav li a:link,
