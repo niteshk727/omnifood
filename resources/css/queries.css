@@ -100,4 +100,7 @@
 @media only screen and (max-width: 480px) {
     sectio { padding: 25px 0; }
     .contact-form { width: 100%; }
+    .logo {
+        height: 60px;
+    }
 }
