@@ -4,6 +4,6 @@ Omnifood demonstrates a website that provides a look and feel of a food subscrip
 - Customer Testimonials
 - Serviceable Locations
 - Option to connect on Mobile Apps
-- A Weekly or Monthly Subscription Newsletter Form
+- Subscription Newsletter Form
 
 **Note:** UI Only Web Page, do not expect full working logic.
